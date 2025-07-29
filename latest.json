@@ -1,7 +1,7 @@
 {
   "$schema": "./latest.schema.json",
   "version": "0.1.3",
-  "url": "https://adminclairvoyance.github.io/clairvoyance_update/latest.json",
+  "url": "https://github.com/adminclairvoyance/clairvoyance-update/releases/download/v0.1.3/clairvoyance-v0.1.3-mac-arm64.zip",
   "mandatory": false,
   "release_notes": "1.寫入遠端軟體更新功能。",
   "published_at": "2025-07-24T03:00:00+08:00"
