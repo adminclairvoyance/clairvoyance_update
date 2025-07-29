@@ -1,4 +1,5 @@
 {
+  "$schema": "./latest.schema.json",
   "version": "0.1.3",
   "url": "https://adminclairvoyance.github.io/clairvoyance_update/latest.json",
   "mandatory": false,
