@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Clairvoyance Update Descriptor",
+  "type": "object",
+  "properties": {
+    "version": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "mandatory": { "type": "boolean" },
+    "release_notes": { "type": "string" },
+    "published_at": { "type": "string", "format": "date-time" }
+  },
+  "required": [ "version", "url", "mandatory", "release_notes", "published_at" ]
+}
