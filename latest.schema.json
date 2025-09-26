@@ -2,20 +2,21 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Clairvoyance Update Descriptor",
   "type": "object",
+  "additionalProperties": false,
   "properties": {
-    "version": { "type": "string" },
+    "version": { "type": "string", "pattern": "^[0-9]+(\\.[0-9]+){1,3}$" },
     "urls": {
       "type": "object",
+      "additionalProperties": false,
       "properties": {
         "windows": { "type": "string", "format": "uri" },
-        "macos": { "type": "string", "format": "uri" },
-        "linux": { "type": "string", "format": "uri" }
-      },
-      "required": [ "windows" ]
+        "macos":   { "type": "string", "format": "uri" },
+        "linux":   { "type": "string", "format": "uri" }
+      }
     },
     "mandatory": { "type": "boolean" },
     "release_notes": { "type": "string" },
     "published_at": { "type": "string", "format": "date-time" }
   },
-  "required": [ "version", "urls", "mandatory", "release_notes", "published_at" ]
+  "required": ["version", "urls", "mandatory", "release_notes", "published_at"]
 }
