@@ -1,12 +1,12 @@
 {
   "$schema": "./latest.schema.json",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "urls": {
-    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.0/clairvoyance-v0.2.0-win-x64.zip",
+    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.1/clairvoyance-v0.2.1-win-x64.png.zip",
     "macos":"",
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "1.寫入遠端軟體更新功能。",
-  "published_at": "2025-07-24T03:00:00+08:00"
+  "release_notes": "1.這是一次覆蓋測試2.覆蓋後的檔案是一張圖片3.僅限winOS電腦",
+  "published_at": "2025-09-28T07:30:00+08:00"
 }
