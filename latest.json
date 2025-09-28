@@ -2,8 +2,8 @@
   "$schema": "./latest.schema.json",
   "version": "0.2.0",
   "urls": {
-    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.0/clairvoyance-v0.2.0-mac-arm64.zip",
-    "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.0/clairvoyance-v0.2.0-mac-arm64.zip",
+    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.0/clairvoyance-v0.2.0-win-x64.zip",
+    "macos":"",
     "linux":""
   },
   "mandatory": false,
