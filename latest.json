@@ -1,6 +1,6 @@
 {
   "$schema": "./latest.schema.json",
-  "version": "0.2.1",
+  "version": "0.2.1.0",
   "urls": {
     "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.1/clairvoyance-v0.2.1-win-x64.png.zip",
     "macos":"",
