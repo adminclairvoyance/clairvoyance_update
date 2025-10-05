@@ -3,7 +3,7 @@
   "version": "0.2.1.0",
   "urls": {
     "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.1/clairvoyance-v0.2.1-win-x64.zip",
-    "macos":"",
+    "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.1/clairvoyance-v0.2.1-mac-arm64.zip",
     "linux":""
   },
   "mandatory": false,
