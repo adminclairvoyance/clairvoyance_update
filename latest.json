@@ -1,12 +1,12 @@
 {
   "$schema": "./latest.schema.json",
-  "version": "0.2.3.0",
+  "version": "0.3.0.0",
   "urls": {
     "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.2.1/clairvoyance-v0.2.1-win-x64.zip",
     "macos":"",
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "1.這是一次覆蓋測試\n2.覆蓋後的檔案是一張圖片\n3.僅限winOS電腦\n",
-  "published_at": "2025-09-28T07:30:00"
+  "release_notes": "1.We change the UI design and remove unnecessary content on the page. Current Monitor page look much more tidy and clean.\n2.We restructure algorithm of comm and improve the maintainability.\n3.From now on, CLairvoyance will be used in English.\n",
+  "published_at": "2025-12-15T19:40:00"
 }
