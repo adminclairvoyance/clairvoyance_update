@@ -1,12 +1,12 @@
 {
   "$schema": "./latest.schema.json",
-  "version": "0.3.0.0",
+  "version": "0.4.1.0",
   "urls": {
     "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.4.1/Clairvoyance-v0.3.0-win-x64.zip",
     "macos":"",
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "1.We change the UI design and remove unnecessary content on the page. Current Monitor page look much more tidy and clean.\n2.We restructure algorithm of comm and improve the maintainability.\n3.From now on, CLairvoyance will be used in English.\n",
+  "release_notes": "Features:\n1.Setting up homepage and all of the workpiece projects enable to manage on this page.\n2.Design CTA button, there are a lots of feature is building now. We hope that we can utilize CTA button to guide you on the right way in Clair.\n3.Add breadcrumb, make you much more easy back to home and make yourself knowing where you at.\n4.Add homepage footer to display version information. \n 5.Design operation setting page, brand new operation setting page make you easily manage your operations on process table.\nHope you enjoy!Ren\n",
   "published_at": "2025-12-15T19:40:00"
 }
