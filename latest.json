@@ -1,12 +1,12 @@
 {
   "$schema": "./latest.schema.json",
-  "version": "0.4.1.0",
+  "version": "0.4.2.0",
   "urls": {
     "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.4.1/Clairvoyance-0.4.1-win-x64.zip",
     "macos":"",
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "Features:\n1.Setting up homepage and all of the workpiece projects enable to manage on this page.\n2.Design CTA button, there are a lots of feature is building now. We hope that we can utilize CTA button to guide you on the right way in Clair.\n3.Add breadcrumb, make you much more easy back to home and make yourself knowing where you at.\n4.Add homepage footer to display version information. \n 5.Design operation setting page, brand new operation setting page make you easily manage your operations on process table.\nHope you enjoy!Ren\n",
+  "release_notes": "Features:\n1.In this patch, we establish a delete project button in homepage. Use carefully, we still set any notices to remind you.\n2.Material is a significant part in processing.We add Material fill-in when user create project.\nUX:\n1.We add Clairvoyance icon in front of breadcrumb bar.This is aesthetic issue.\n2.In 0.4.1, you may notice that if you don't fill-in project name and create, dialog will crash. We set a required rule which you have to fill project name then create. \n 3.We notice that Icon logo is too small to make some notice.We resize the logo make it much more balance.\n 4.We remove foreground in breadcrumb. \nDebug:\n 1.In some senario, when Claivoyance initialized, we notice that initialed window is too high to click the chrome. we fix it.\n2.We add Inter.tff resource into Clairvoyance, we believe that this can solve font lost problems in comprehensive. \nHope you enjoy!Ren\n",
   "published_at": "2025-12-15T19:40:00"
 }
