@@ -7,6 +7,6 @@
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "Features:\n1.We add Neuron management page for everything about holder manage like, register, delete, etc.\n2.Neuron management enable to bind with operation setting. We consider a specific situation of not all operation will be monitored by Neuron, so we design a drag-drop and allow user left empty when not using neuron. \nHope you enjoy!Ren\n",
+  "release_notes": "Features:\n1.Clairvoyance in v0.9.0 can fully support Influx DB, but watch out, there might be bugs in it.\n2.To set up Influx DB, you can find setting icon in the footer on sidebar. In storage page, you can enter token and ip to activate Influx DB.\nHope you enjoy!Ren\n",
   "published_at": "2026-01-13T21:40:00"
 }
