@@ -8,5 +8,5 @@
   },
   "mandatory": false,
   "release_notes": "Features:\n1.Clairvoyance in v0.9.0 can fully support Influx DB, but watch out, there might be bugs in it.\n2.To set up Influx DB, you can find setting icon in the footer on sidebar. In storage page, you can enter token and ip to activate Influx DB.\nHope you enjoy!Ren\n",
-  "published_at": "2026-01-13T21:40:00"
+  "published_at": "2026-01-17T21:40:00"
 }
