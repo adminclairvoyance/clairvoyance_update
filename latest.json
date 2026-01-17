@@ -2,11 +2,11 @@
   "$schema": "./latest.schema.json",
   "version": "0.9.2.0",
   "urls": {
-    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.9.1/Clairvoyance-0.9.1-win-x64.zip",
-    "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.9.1/Clairvoyance-0.9.1-win-x64.zip",
+    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.9.2/Clairvoyance-0.9.2-win-x64.zip",
+    "macos":"",
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "Features:\n1.Clairvoyance in v0.9.0 can fully support Influx DB, but watch out, there might be bugs in it.\n2.To set up Influx DB, you can find setting icon in the footer on sidebar. In storage page, you can enter token and ip to activate Influx DB.\nHope you enjoy!Ren\n",
+  "release_notes": "Bugs: \n1.we revise update dialog in some specific situation cannot display correctly and we change the color from dark mode into light mode. \n2.Simulaneously, we restructure influx db related functions, now it works much more inefficiency. \nUIUX: \n1.We utilize setting icon to keep page clean and tidy. \n2.We redesign the create workpiece project dialog. it looks much more unified than before\nHope you enjoy! Ren\n",
   "published_at": "2026-01-17T21:40:00"
 }
