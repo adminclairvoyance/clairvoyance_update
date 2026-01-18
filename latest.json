@@ -7,6 +7,6 @@
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "Bugs: \n1.We fix the situation that influx db cannot function because of measurement setting. \n",
+  "release_notes": "Bugs: \n1.We fix the situation that influx db cannot function because of measurement setting. \n Hope you enjoy! Ren.",
   "published_at": "2026-01-18T21:40:00"
 }
