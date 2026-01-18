@@ -1,12 +1,12 @@
 {
   "$schema": "./latest.schema.json",
-  "version": "0.9.2.0",
+  "version": "0.9.3.0",
   "urls": {
-    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.9.2/Clairvoyance-0.9.2-win-x64.zip",
+    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.9.3/Clairvoyance-0.9.3-win-x64.zip",
     "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.9.2/Clairvoyance-0.9.2-win-x64.zip",
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "Bugs: \n1.we revise update dialog in some specific situation cannot display correctly and we change the color from dark mode into light mode. \n2.Simulaneously, we restructure influx db related functions, now it works much more inefficiency. \nUIUX: \n1.We utilize setting icon to keep page clean and tidy. \n2.We redesign the create workpiece project dialog. it looks much more unified than before\nHope you enjoy! Ren\n",
-  "published_at": "2026-01-17T21:40:00"
+  "release_notes": "Bugs: \n1.We fix the situation that influx db cannot function because of measurement setting. \n",
+  "published_at": "2026-01-18T21:40:00"
 }
