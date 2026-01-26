@@ -1,12 +1,12 @@
 {
   "$schema": "./latest.schema.json",
-  "version": "0.9.4.0",
+  "version": "0.10.1.0",
   "urls": {
-    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.9.4/Clairvoyance-0.9.4-win-x64.zip",
-    "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.9.4/Clairvoyance-0.9.4-win-x64.zip",
+    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.10.1/Clairvoyance-0.10.1-win-x64.zip",
+    "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.10.1/Clairvoyance-0.10.1-win-x64.zip",
     "linux":""
   },
   "mandatory": false,
-  "release_notes": "Bugs: \n1.We fix the situation that influx db cannot function because of measurement setting. \n Hope you enjoy! Ren.",
+  "release_notes": "Bugs: \n1.We change project table from list type into card type. \n Hope you enjoy! Ren.",
   "published_at": "2026-01-19T21:40:00"
 }
