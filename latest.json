@@ -1,9 +1,9 @@
 {
   "$schema": "./latest.schema.json",
-  "version": "0.10.1.0",
+  "version": "0.13.0.0",
   "urls": {
-    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.10.1/Clairvoyance-0.10.1-win-x64.zip",
-    "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.10.1/Clairvoyance-0.10.1-win-x64.zip",
+    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.13.0/Clairvoyance-0.13.0-win-x64.zip",
+    "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.13.0/Clairvoyance-0.13.0-win-x64.zip",
     "linux":""
   },
   "mandatory": false,
