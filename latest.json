@@ -1,7 +1,7 @@
 {
     "$schema": "./latest.schema.json",
-    "version": "0.26.0",
-    "minimumVersion": "0.26.0",
-    "releaseNotes": "Migrate update service to Electron architecture. Remove legacy .NET updater.",
+    "version": "0.27.0",
+    "minimumVersion": "0.27.0",
+    "releaseNotes": "It's a test for version migrate with structure change into electron and react.",
     "releaseDate": "2026-03-25"
   }
