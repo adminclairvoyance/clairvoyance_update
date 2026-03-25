@@ -1,12 +1,8 @@
 {
-  "$schema": "./latest.schema.json",
-  "version": "0.13.0.0",
-  "urls": {
-    "windows":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.13.0/Clairvoyance-0.13.0-win-x64.zip",
-    "macos":"https://github.com/adminclairvoyance/clairvoyance_update/releases/download/v0.13.0/Clairvoyance-0.13.0-win-x64.zip",
-    "linux":""
-  },
-  "mandatory": false,
-  "release_notes": "Bugs: \n1.We change project table from list type into card type. \n Hope you enjoy! Ren.",
-  "published_at": "2026-01-19T21:40:00"
-}
+    "$schema": "./latest.schema.json",
+    "version": "0.26.0",
+    "minimumVersion": "0.26.0",
+    "releaseNotes": "Migrate update service to Electron architecture. Remove
+  legacy .NET updater.",
+    "releaseDate": "2026-03-25"
+  }
