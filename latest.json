@@ -2,7 +2,6 @@
     "$schema": "./latest.schema.json",
     "version": "0.26.0",
     "minimumVersion": "0.26.0",
-    "releaseNotes": "Migrate update service to Electron architecture. Remove
-  legacy .NET updater.",
+    "releaseNotes": "Migrate update service to Electron architecture. Remove legacy .NET updater.",
     "releaseDate": "2026-03-25"
   }
