@@ -2,6 +2,6 @@
     "$schema": "./latest.schema.json",
     "version": "0.27.0",
     "minimumVersion": "0.25.0",
-    "releaseNotes": "It's a test for version migrate with structure change into electron and react.",
-    "releaseDate": "2026-03-25"
+    "releaseNotes": "Fix updater to download from public repo. Add CI/CD pipeline.",
+    "releaseDate": "2026-03-26"
   }
