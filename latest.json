@@ -1,6 +1,6 @@
 {
     "$schema": "./latest.schema.json",
-    "version": "0.27.0",
+    "version": "0.28.0",
     "minimumVersion": "0.25.0",
     "releaseNotes": "Fix updater to download from public repo. Add CI/CD pipeline.",
     "releaseDate": "2026-03-26"
