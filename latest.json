@@ -1,7 +1,7 @@
 {
     "$schema": "./latest.schema.json",
     "version": "0.30.0",
-    "minimumVersion": "0.25.0",
-    "releaseNotes": "Fix BLE connection on Windows.",
-    "releaseDate": "2026-03-26"
+    "minimumVersion": "0.36.2",
+    "releaseNotes": "Optimize infrastructure of sotfware",
+    "releaseDate": "2026-03-28"
   }
