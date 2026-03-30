@@ -1,7 +1,7 @@
 {
     "$schema": "./latest.schema.json",
-    "version": "0.30.0",
-    "minimumVersion": "0.36.2",
+    "version": "0.36.2",
+    "minimumVersion": "0.35.0",
     "releaseNotes": "Optimize infrastructure of sotfware",
     "releaseDate": "2026-03-28"
   }
